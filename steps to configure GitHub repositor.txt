@@ -1,0 +1,6 @@
+steps to configure GitHub repository in vs
+
+1 install gitrpositori in vs using installer in individual components
+2 create GitHub account using GitHub.com
+3 Install git from git-scm.com
+4
